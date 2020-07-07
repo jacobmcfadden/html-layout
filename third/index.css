@@ -1,0 +1,48 @@
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+.content {
+    width: 100vw;
+    height: 100px;
+}
+
+.double-content {
+    width: 100%;
+    height: 200px;
+}
+
+.header {
+    background-color: lightgray;
+    padding: 25px;
+    box-sizing: border-box;
+}
+
+.one {
+    padding: 50px;
+    box-sizing: border-box;
+    font-size: 20px;
+}
+
+.two {
+    background-color: royalblue;
+}
+
+.three {
+    background-color: aquamarine;
+}
+
+.four {
+    background-color: olive;  
+}
+
+.footer { 
+    background-color: yellow;
+}
+
+.header-box {
+    width: 50px;
+    height: 50px;
+    background-color: royalblue;
+}
